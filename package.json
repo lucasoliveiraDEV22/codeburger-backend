@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
-    "debug": "nodemon --inspect",
-    "vercel-build": "npx sequelize-cli migrate deploy"
+    "debug": "nodemon --inspect"
   },
   "keywords": [],
   "author": "",
